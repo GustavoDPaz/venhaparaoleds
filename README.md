@@ -241,7 +241,7 @@ Pré-requisitos:
 
 1. Certifique-se de ter o SDK instalado:
 ```C#
-dotnet --version # Deve retornar 8.0.x ou 9.0.x
+dotnet --version 
 ```
 3. Clonar o repositório:
 ```C#
