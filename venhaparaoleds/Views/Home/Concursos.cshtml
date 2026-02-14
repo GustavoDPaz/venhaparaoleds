@@ -1,0 +1,49 @@
+﻿
+@model List<venhaparaoleds.Models.Candidato>
+
+    @{
+    ViewData["Title"] = "Busca de Candidatos";
+}
+
+<div class="container">
+    <h2>Filtrar Candidatos por Codigo</h2>
+    
+    <form asp-controller="Concursos" asp-action="BuscarPorcodigo" method="get" class="mb-4">
+    <div class="input-group">
+    <input type="number" name="codigo" class="form-control" placeholder="Digite o Código (ex: 123123)" />
+    <button type="submit" class="btn btn-primary">Buscar</button>
+    </div>
+    </form>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+            <tr>
+            <th>Nome</th>
+            <th>Data de Nascimento</th>
+            <th>CPF</th>
+            <th>Profissões</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var candidato in Model)
+        {
+            <tr>
+                <td>@candidato.Nome</td>
+                <td>@candidato.DataNascimento</td>
+                <td>@candidato.CPF</td>
+                <td>@string.Join(", ", candidato.Profissoes)</td>
+                </tr>
+        }
+        </tbody>
+            </table>
+    }
+        
+@if (Model != null && !Model.Any())
+{
+    <div class="alert alert-warning mt-3">
+        A busca foi realizada, mas não existem dados no banco ou nenhum candidato combina com este concurso.
+        </div>
+}
+</div>

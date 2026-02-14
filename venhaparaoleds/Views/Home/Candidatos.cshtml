@@ -1,0 +1,48 @@
+﻿@model List<venhaparaoleds.Models.Concurso>
+
+@{
+    ViewData["Title"] = "Busca de Concursos";
+}
+
+<div class="container">
+    <h2>Filtrar Concursos por CPF</h2>
+    
+    <form asp-controller="Candidatos" asp-action="BuscarPorCpf" method="get" class="mb-4">
+        <div class="input-group">
+            <input type="number" name="cpf" class="form-control" placeholder="Digite o CPF (ex: 182.845.084-34)" />
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </div>
+    </form>
+
+    @if (Model != null && Model.Any())
+    {
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th>Órgão</th>
+                <th>Edital</th>
+                <th>Código</th>
+                <th>Vagas</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var concurso in Model)
+            {
+                <tr>
+                    <td>@concurso.Orgao</td>
+                    <td>@concurso.Edital</td>
+                    <td>@concurso.Codigo</td>
+                    <td>@string.Join(", ", concurso.Vagas)</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    }
+    
+    @if (Model != null && !Model.Any() && Model.Count == 0)
+    {
+        <div class="alert alert-warning mt-3">
+            A busca foi realizada, mas não existem dados no banco ou nenhum concurso combina com este CPF
+        </div>
+    }
+</div>

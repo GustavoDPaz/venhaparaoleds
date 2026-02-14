@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|c:\\users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|solutionrelative:venhaparaoleds\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|c:\\users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|solutionrelative:venhaparaoleds\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|c:\\users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|solutionrelative:venhaparaoleds\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|c:\\users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|solutionrelative:venhaparaoleds\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|c:\\users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\models\\concurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|solutionrelative:venhaparaoleds\\models\\concurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|c:\\users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\models\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|solutionrelative:venhaparaoleds\\models\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|c:\\users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ABFE75E-AFE3-4F4E-844B-172C72416694}|venhaparaoleds\\venhaparaoleds.csproj|solutionrelative:venhaparaoleds\\venhaparaoleds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "venhaparaoleds\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "venhaparaoleds\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T04:08:48.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "venhaparaoleds\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "venhaparaoleds\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-29T03:54:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Candidato.cs",
+              "DocumentMoniker": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Models\\Candidato.cs",
+              "RelativeDocumentMoniker": "venhaparaoleds\\Models\\Candidato.cs",
+              "ToolTip": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Models\\Candidato.cs",
+              "RelativeToolTip": "venhaparaoleds\\Models\\Candidato.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:21:22.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "venhaparaoleds\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "venhaparaoleds\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:16:01.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "venhaparaoleds\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "venhaparaoleds\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T19:55:12.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "venhaparaoleds.csproj",
+              "DocumentMoniker": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj",
+              "RelativeDocumentMoniker": "venhaparaoleds\\venhaparaoleds.csproj",
+              "ToolTip": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj",
+              "RelativeToolTip": "venhaparaoleds\\venhaparaoleds.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T23:14:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Concurso.cs",
+              "DocumentMoniker": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Models\\Concurso.cs",
+              "RelativeDocumentMoniker": "venhaparaoleds\\Models\\Concurso.cs",
+              "ToolTip": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\Models\\Concurso.cs",
+              "RelativeToolTip": "venhaparaoleds\\Models\\Concurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T23:10:13.53Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
