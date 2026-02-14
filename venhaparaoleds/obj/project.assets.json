@@ -2780,11 +2780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj",
+      "projectUniqueName": "C:\\Users\\dapaz\\Documents\\GitHub\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj",
       "projectName": "venhaparaoleds",
-      "projectPath": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj",
+      "projectPath": "C:\\Users\\dapaz\\Documents\\GitHub\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj",
       "packagesPath": "C:\\Users\\dapaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\obj\\",
+      "outputPath": "C:\\Users\\dapaz\\Documents\\GitHub\\venhaparaoleds\\venhaparaoleds\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dapaz\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uQ41rldp4e4=",
+  "dgSpecHash": "9IEESLejTrg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dapaz\\source\\repos\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj",
+  "projectFilePath": "C:\\Users\\dapaz\\Documents\\GitHub\\venhaparaoleds\\venhaparaoleds\\venhaparaoleds.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dapaz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dapaz\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
