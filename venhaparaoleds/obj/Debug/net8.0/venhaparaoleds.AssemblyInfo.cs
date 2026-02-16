@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("venhaparaoleds")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf2761c74cd9c9d5b671065ef241641b3999297c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02e23cec90f2a41589d2b8cc2704d32e273d9e54")]
 [assembly: System.Reflection.AssemblyProductAttribute("venhaparaoleds")]
 [assembly: System.Reflection.AssemblyTitleAttribute("venhaparaoleds")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
